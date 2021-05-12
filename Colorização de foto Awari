@@ -67,4 +67,4 @@ class DeOldify:
             print('Provide an image url and try again.')
     def range_render_factor(self):
         for i in range(10,40,2):
-            self.colorizer.plot_transformed_image('test_images/image.png', render_factor=i, display_render_factor=True, figsize=(8,8))
+            self.colorizer.plot_transformed_image('test_images/image.png', render_factor=i, display_render_factor=True, figsize=(4,4))
