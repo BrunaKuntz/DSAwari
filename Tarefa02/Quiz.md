@@ -45,4 +45,5 @@ A ciência de dados também converte dados brutos em insights de negócio, mas a
 
 - IA: Qualquer tipo de tecnologia que tenta reproduzir o processo de aprendizado humano em máquinas.
 - Machine Learning: Subcampo da IA que permite dar aos computadores a habilidade de aprender sem que sejam explicitamente programados para isso.
-- Deep Learning: Subcampo do Machine Learning que utiliza redes neurais artificiais nas máquinas.
+- Deep Learning: Subcampo do Machine Learning que utiliza redes neurais artificiais nas máquinas. Os algoritmos aprendem através dos dados crus, não estruturados. Alguns exemplo são: classificação de imagens, assistentes virtuais
+
